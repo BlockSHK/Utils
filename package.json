@@ -1,0 +1,22 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Utils for the blockchain based managment system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockSHK/Utils.git"
+  },
+  "author": "Hithru De Alwis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockSHK/Utils/issues"
+  },
+  "homepage": "https://github.com/BlockSHK/Utils#readme",
+  "dependencies": {
+    "web3": "^1.7.0"
+  }
+}
